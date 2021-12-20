@@ -1,0 +1,16 @@
+@import "variables";
+
+
+@media (max-width: $ultrabook) {
+  .container  {
+    width: 992px;
+  }
+  #hero {
+    .hero {
+        width: 992px;
+      }
+    .hero__img {
+      right: -306px;
+    }
+  }
+}

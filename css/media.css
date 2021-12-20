@@ -1,0 +1,14 @@
+@media (max-width: 415px) {
+  .container {
+    width: 992px;
+  }
+
+  #hero .hero {
+    width: 992px;
+  }
+  #hero .hero__img {
+    right: -306px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
